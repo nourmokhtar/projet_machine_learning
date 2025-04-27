@@ -1,0 +1,1001 @@
+value,date,label,linksto,first_wardid,last_wardid,eventtype
+96,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+96,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+96,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+96,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+96,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+94,29/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+3,29/11/1977,ETT [Mark],chartevents,50,57,chartevent
+94,29/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+94,29/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+94,29/11/1977,LLE [Temp],chartevents,50,57,chartevent
+94,29/11/1977,Ostomy [Type],chartevents,50,57,chartevent
+36,29/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+94,29/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+94,29/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+94,29/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+94,29/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+94,29/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+3,29/11/1977,Sputum [Color],chartevents,50,57,chartevent
+3,29/11/1977,Sputum Source,chartevents,50,57,chartevent
+94,29/11/1977,Stool [Color],chartevents,50,57,chartevent
+94,29/11/1977,Urine [Color],chartevents,50,57,chartevent
+94,29/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+94,29/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+36,29/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+36,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+55,29/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+55,29/11/1977,Sputum [Color],chartevents,50,57,chartevent
+55,29/11/1977,Sputum Source,chartevents,50,57,chartevent
+55,29/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+55,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+90,29/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-5,29/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-2,29/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+-2,29/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+-2,29/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+-5,29/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-5,29/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-5,29/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-5,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-5,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-5,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-5,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-5,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+30,29/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+30,29/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+30,29/11/1977,LLE [Temp],chartevents,50,57,chartevent
+30,29/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+30,29/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+30,29/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+30,29/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+30,29/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+30,29/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+30,29/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+30,29/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+30,29/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+30,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+27,29/11/1977,ETT [Mark],chartevents,50,57,chartevent
+23,29/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+23,29/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+23,29/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+55,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+55,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+55,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+55,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+55,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+55,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+55,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+55,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+55,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+55,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+55,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+55,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+55,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+55,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+55,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+55,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+55,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+55,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+55,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+55,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+55,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+55,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+55,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+55,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+55,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+55,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-3,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-3,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-3,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-4,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-4,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+-4,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-4,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-4,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+-4,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+-4,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+-4,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+-4,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+-4,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+-4,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-4,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+27,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+23,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+27,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+27,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+27,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+27,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+27,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+27,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+27,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+27,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+27,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+27,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+27,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+27,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+23,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+23,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+23,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+3,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+23,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+23,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+23,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+23,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+23,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+23,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+23,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+23,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+23,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+23,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+23,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+23,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-16,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+-16,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-16,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-16,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-10,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-10,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+-10,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-15,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-10,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+-15,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+-15,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+-10,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+-10,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+-10,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+-10,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-15,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-15,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+5,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+159,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-10,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-10,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+159,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+159,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+159,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+-10,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-10,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+159,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+-10,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-10,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-10,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-10,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-10,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-10,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+99,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-6,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+99,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+99,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+99,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-6,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+99,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+99,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+99,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+99,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+99,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+99,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+99,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+99,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-6,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-6,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+39,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+13,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+13,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+39,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+39,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+39,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+39,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+39,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+39,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+39,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+39,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+39,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+13,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+39,30/11/1977,Pain Management [Route/Status #1],chartevents,50,57,chartevent
+13,30/11/1977,Sputum [Color],chartevents,50,57,chartevent
+13,30/11/1977,Sputum Source,chartevents,50,57,chartevent
+39,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+13,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+8,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+8,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-21,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-21,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+-21,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+-21,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+-21,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-21,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-21,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+-21,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+-21,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+-21,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+-21,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+131,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+-21,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+-21,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-21,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-21,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-8,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-8,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-8,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+71,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+68,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-3,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+71,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+71,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+71,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+71,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+71,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+71,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+71,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+71,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+71,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+71,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+71,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+71,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+68,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+71,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+68,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+68,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+68,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+68,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+68,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+68,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+53,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+53,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+53,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+11,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+8,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+11,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+11,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+11,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+8,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+11,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+11,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+11,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+11,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+11,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+11,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+11,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+11,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+8,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+8,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-4,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-4,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+-4,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-4,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-4,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+-4,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-4,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-20,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-20,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+-20,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+-20,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+-20,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-20,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-20,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+-20,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+-20,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+-20,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+-20,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+-20,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+-20,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+-20,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-20,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-16,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-20,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-20,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+-16,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+69,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+69,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+69,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+69,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+69,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+69,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+69,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+69,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+69,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-20,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-16,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+-20,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-20,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+5,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+9,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+9,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+9,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+9,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+9,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+9,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+9,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+9,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+9,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+9,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+9,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+9,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+9,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+9,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+9,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+9,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+9,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+9,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+9,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+9,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+9,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+-23,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-23,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+41,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+41,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+41,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+41,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+41,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+41,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+41,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+41,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+41,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+-23,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-23,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+-23,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-23,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+13,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+13,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+13,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-2,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-2,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-2,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+-19,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+-24,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+-19,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+-19,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+120,30/11/1977,INV Line#1 [Type],chartevents,50,57,chartevent
+120,30/11/1977,INV Line#2 [Type],chartevents,50,57,chartevent
+120,30/11/1977,INV Line#3 [Type],chartevents,50,57,chartevent
+-19,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+-24,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+-19,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+-24,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+-24,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+-19,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+-19,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+-19,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+-19,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+-19,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+-24,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,PAP Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,Resp Alarm [Low],chartevents,50,57,chartevent
+-24,30/11/1977,SpO2 Alarm [Low],chartevents,50,57,chartevent
+60,30/11/1977,Anti-Embolism [Device],chartevents,50,57,chartevent
+60,30/11/1977,Arterial BP [Systolic],chartevents,50,57,chartevent
+127,30/11/1977,Corneal Reflex [Right],chartevents,50,57,chartevent
+60,30/11/1977,Dorsal PedPulse [Right],chartevents,50,57,chartevent
+185,30/11/1977,ETT [Mark],chartevents,50,57,chartevent
+60,30/11/1977,GI Intub #1 [Type],chartevents,50,57,chartevent
+60,30/11/1977,GI#1 Tube [Status],chartevents,50,57,chartevent
+60,30/11/1977,Inc #1 [Closure],chartevents,50,57,chartevent
+60,30/11/1977,Inc #2 [Closure],chartevents,50,57,chartevent
+60,30/11/1977,Inc #3 [Closure],chartevents,50,57,chartevent
+60,30/11/1977,Inc #1 [Drainage],chartevents,50,57,chartevent
+60,30/11/1977,Inc #2 [Drainage],chartevents,50,57,chartevent
+60,30/11/1977,Inc #3 [Drainage],chartevents,50,57,chartevent
+60,30/11/1977,Inc #1 [Dressing],chartevents,50,57,chartevent
+60,30/11/1977,Inc #2 [Dressing],chartevents,50,57,chartevent
+60,30/11/1977,Inc #3 [Dressing],chartevents,50,57,chartevent
+60,30/11/1977,LLE [Temp],chartevents,50,57,chartevent
+60,30/11/1977,PAP [Systolic],chartevents,50,57,chartevent
+60,30/11/1977,PostTib. Pulses [Right],chartevents,50,57,chartevent
+60,30/11/1977,Pupil Response [Right],chartevents,50,57,chartevent
+60,30/11/1977,Pupil Size [Right],chartevents,50,57,chartevent
+60,30/11/1977,RLE [Temperature],chartevents,50,57,chartevent
+60,30/11/1977,Responds to Stimuli [Type],chartevents,50,57,chartevent
+60,30/11/1977,Urine [Color],chartevents,50,57,chartevent
+60,30/11/1977,Warming [Device],chartevents,50,57,chartevent
+60,30/11/1977,GI Prophylaxis [Drug #1],chartevents,50,57,chartevent
+60,30/11/1977,GI Tube #1 [Site],chartevents,50,57,chartevent
+60,30/11/1977,ABP Alarm [Low],chartevents,50,57,chartevent
+60,30/11/1977,CVP Alarm [Low],chartevents,50,57,chartevent
+60,30/11/1977,HR Alarm [Low],chartevents,50,57,chartevent
+79,08/12/1971,LUE Color,chartevents,50,50,chartevent
+79,08/12/1971,LLE Color,chartevents,50,50,chartevent
+79,08/12/1971,Respiratory Pattern,chartevents,50,50,chartevent
+79,08/12/1971,RUL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,RLL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,LUL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,LLL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,Respiratory Effort,chartevents,50,50,chartevent
+79,08/12/1971,Cough Effort,chartevents,50,50,chartevent
+79,08/12/1971,Cough Type,chartevents,50,50,chartevent
+80,08/12/1971,Oral Cavity,chartevents,50,50,chartevent
+80,08/12/1971,Oral Cavity,chartevents,50,50,chartevent
+80,08/12/1971,Nares R,chartevents,50,50,chartevent
+80,08/12/1971,Diet Type,chartevents,50,50,chartevent
+80,08/12/1971,Abdominal Assessment,chartevents,50,50,chartevent
+80,08/12/1971,Bowel Sounds,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Intub Site,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Place Check,chartevents,50,50,chartevent
+81,08/12/1971,Stool Consistency,chartevents,50,50,chartevent
+81,08/12/1971,Stool Management,chartevents,50,50,chartevent
+82,08/12/1971,Skin Integrity,chartevents,50,50,chartevent
+82,08/12/1971,Skin Temperature,chartevents,50,50,chartevent
+82,08/12/1971,Skin Color,chartevents,50,50,chartevent
+82,08/12/1971,Edema Location,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Cleanse #1,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Treatment #1,chartevents,50,50,chartevent
+82,08/12/1971,Braden Sensory Perception,chartevents,50,50,chartevent
+82,08/12/1971,Braden Moisture,chartevents,50,50,chartevent
+82,08/12/1971,Braden Activity,chartevents,50,50,chartevent
+82,08/12/1971,Braden Mobility,chartevents,50,50,chartevent
+82,08/12/1971,Braden Nutrition,chartevents,50,50,chartevent
+82,08/12/1971,Braden Friction/Shear,chartevents,50,50,chartevent
+82,08/12/1971,Circulation/Skin Integrity,chartevents,50,50,chartevent
+82,08/12/1971,Position Change,chartevents,50,50,chartevent
+82,08/12/1971,Range of Motion,chartevents,50,50,chartevent
+83,08/12/1971,Head of Bed,chartevents,50,50,chartevent
+83,08/12/1971,Turn,chartevents,50,50,chartevent
+83,08/12/1971,Activity,chartevents,50,50,chartevent
+83,08/12/1971,Assistance Device,chartevents,50,50,chartevent
+83,08/12/1971,Activity Tolerance,chartevents,50,50,chartevent
+83,08/12/1971,Therapeutic Bed,chartevents,50,50,chartevent
+83,08/12/1971,Anti Embolic Device,chartevents,50,50,chartevent
+83,08/12/1971,Position,chartevents,50,50,chartevent
+324,08/12/1971,Warming Device,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Wound Base #1,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Drainage #1,chartevents,50,50,chartevent
+84,08/12/1971,Multi Lumen Site Appear,chartevents,50,50,chartevent
+84,08/12/1971,Multi Lumen Waveform Appear,chartevents,50,50,chartevent
+84,08/12/1971,Arterial line Site Appear,chartevents,50,50,chartevent
+84,08/12/1971,Arterial line Waveform Appear,chartevents,50,50,chartevent
+77,08/12/1971,Pain Level Response,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Type #1,chartevents,50,50,chartevent
+86,08/12/1971,Surrounding Tissue #1,chartevents,50,50,chartevent
+86,08/12/1971,Pressure Ulcer Stage #1,chartevents,50,50,chartevent
+86,08/12/1971,Tunneling Present #1,chartevents,50,50,chartevent
+73,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+73,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+78,08/12/1971,Pupil Size Left,chartevents,50,50,chartevent
+79,08/12/1971,RUE Temp,chartevents,50,50,chartevent
+79,08/12/1971,LUE Temp,chartevents,50,50,chartevent
+79,08/12/1971,RLE Temp,chartevents,50,50,chartevent
+79,08/12/1971,LLE Temp,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Type,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Status,chartevents,50,50,chartevent
+81,08/12/1971,Stool Color,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin Drainage Amount #1,chartevents,50,50,chartevent
+82,08/12/1971,Skin Condition,chartevents,50,50,chartevent
+82,08/12/1971,Edema Amount,chartevents,50,50,chartevent
+80,08/12/1971,Nares L,chartevents,50,50,chartevent
+84,08/12/1971,20 Gauge Site Appear,chartevents,50,50,chartevent
+84,08/12/1971,Dialysis Catheter Site Appear,chartevents,50,50,chartevent
+78,08/12/1971,Level of Consciousness,chartevents,50,50,chartevent
+78,08/12/1971,Behavior,chartevents,50,50,chartevent
+78,08/12/1971,Behavior,chartevents,50,50,chartevent
+83,08/12/1971,Oral Care,chartevents,50,50,chartevent
+78,08/12/1971,Pupil Response Right,chartevents,50,50,chartevent
+84,08/12/1971,Dialysis Catheter Type,chartevents,50,50,chartevent
+78,08/12/1971,Pupil Response Left,chartevents,50,50,chartevent
+77,08/12/1971,Daily Wake Up,chartevents,50,50,chartevent
+82,08/12/1971,Patient/Family Informed_V2,chartevents,50,50,chartevent
+82,08/12/1971,Side Rails_V2,chartevents,50,50,chartevent
+83,08/12/1971,Side Rails (Restraint),chartevents,50,50,chartevent
+82,08/12/1971,Non-Violent Restraints,chartevents,50,50,chartevent
+82,08/12/1971,Non-Violent Restraints Ordered,chartevents,50,50,chartevent
+82,08/12/1971,Face to Face Eval (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Reason for Restraints (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Restraint Device (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Restraint Location_V2,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Restraints Evaluated_V2,chartevents,50,50,chartevent
+82,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+82,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+82,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+82,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+82,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+84,08/12/1971,Dialysis Catheter Placement Confirmed by X-ray,chartevents,50,50,chartevent
+84,08/12/1971,Multi Lumen Placement Confirmed by X-ray,chartevents,50,50,chartevent
+86,08/12/1971,Impaired Skin  - Dressing Status #1,chartevents,50,50,chartevent
+1,08/12/1971,System Integrity,chartevents,50,50,chartevent
+1,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+1,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+1,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+13,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+13,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+264,08/12/1971,Oral Care,chartevents,50,50,chartevent
+1,08/12/1971,System Integrity,chartevents,50,50,chartevent
+1,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+1,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+1,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+49,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Cleanse #1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Treatment #1,chartevents,50,50,chartevent
+202,08/12/1971,Circulation/Skin Integrity,chartevents,50,50,chartevent
+202,08/12/1971,Position Change,chartevents,50,50,chartevent
+202,08/12/1971,Range of Motion,chartevents,50,50,chartevent
+204,08/12/1971,Head of Bed,chartevents,50,50,chartevent
+204,08/12/1971,Turn,chartevents,50,50,chartevent
+204,08/12/1971,Activity,chartevents,50,50,chartevent
+204,08/12/1971,Assistance Device,chartevents,50,50,chartevent
+204,08/12/1971,Activity Tolerance,chartevents,50,50,chartevent
+204,08/12/1971,Therapeutic Bed,chartevents,50,50,chartevent
+204,08/12/1971,Anti Embolic Device,chartevents,50,50,chartevent
+204,08/12/1971,Position,chartevents,50,50,chartevent
+37,08/12/1971,System Integrity,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Wound Base #1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Drainage #1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Type #1,chartevents,50,50,chartevent
+208,08/12/1971,Surrounding Tissue #1,chartevents,50,50,chartevent
+208,08/12/1971,Pressure Ulcer Stage #1,chartevents,50,50,chartevent
+208,08/12/1971,Tunneling Present #1,chartevents,50,50,chartevent
+49,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+49,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin Drainage Amount #1,chartevents,50,50,chartevent
+37,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+37,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+37,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+202,08/12/1971,Patient/Family Informed_V2,chartevents,50,50,chartevent
+201,08/12/1971,Side Rails_V2,chartevents,50,50,chartevent
+202,08/12/1971,Side Rails (Restraint),chartevents,50,50,chartevent
+202,08/12/1971,Non-Violent Restraints,chartevents,50,50,chartevent
+202,08/12/1971,Non-Violent Restraints Ordered,chartevents,50,50,chartevent
+202,08/12/1971,Face to Face Eval (Non-Violent),chartevents,50,50,chartevent
+202,08/12/1971,Reason for Restraints (Non-Violent),chartevents,50,50,chartevent
+203,08/12/1971,Restraint Device (Non-Violent),chartevents,50,50,chartevent
+203,08/12/1971,Restraint Location_V2,chartevents,50,50,chartevent
+203,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+203,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+203,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+203,08/12/1971,Restraints Evaluated_V2,chartevents,50,50,chartevent
+201,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+201,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+201,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+201,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+201,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+208,08/12/1971,Impaired Skin  - Dressing Status #1,chartevents,50,50,chartevent
+7,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+25,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+7,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+1,08/12/1971,System Integrity,chartevents,50,50,chartevent
+1,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+1,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+1,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+74,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+77,08/12/1971,GCS - Eye Opening,chartevents,50,50,chartevent
+77,08/12/1971,Riker-SAS Scale,chartevents,50,50,chartevent
+77,08/12/1971,Risk for Falls,chartevents,50,50,chartevent
+76,08/12/1971,Daily Wake Up Deferred,chartevents,50,50,chartevent
+76,08/12/1971,Pain Present,chartevents,50,50,chartevent
+76,08/12/1971,Pain Type,chartevents,50,50,chartevent
+76,08/12/1971,Pain Location,chartevents,50,50,chartevent
+76,08/12/1971,Pain Level,chartevents,50,50,chartevent
+76,08/12/1971,Pain Management,chartevents,50,50,chartevent
+76,08/12/1971,Pain Management,chartevents,50,50,chartevent
+76,08/12/1971,Pain Management,chartevents,50,50,chartevent
+76,08/12/1971,Pain Level Acceptable,chartevents,50,50,chartevent
+76,08/12/1971,Pain Assessment Method,chartevents,50,50,chartevent
+76,08/12/1971,Untoward Effect,chartevents,50,50,chartevent
+77,08/12/1971,Orientation,chartevents,50,50,chartevent
+77,08/12/1971,GCS - Verbal Response,chartevents,50,50,chartevent
+77,08/12/1971,GCS - Motor Response,chartevents,50,50,chartevent
+77,08/12/1971,Speech,chartevents,50,50,chartevent
+77,08/12/1971,Communication,chartevents,50,50,chartevent
+77,08/12/1971,Gag Reflex,chartevents,50,50,chartevent
+77,08/12/1971,Cough Reflex,chartevents,50,50,chartevent
+77,08/12/1971,Pupil Size Right,chartevents,50,50,chartevent
+77,08/12/1971,Follows Commands,chartevents,50,50,chartevent
+77,08/12/1971,Spontaneous Movement,chartevents,50,50,chartevent
+77,08/12/1971,Response to Stimuli (Type),chartevents,50,50,chartevent
+78,08/12/1971,RU Strength/Movement,chartevents,50,50,chartevent
+78,08/12/1971,RL Strength/Movement,chartevents,50,50,chartevent
+78,08/12/1971,LU Strength/Movement,chartevents,50,50,chartevent
+78,08/12/1971,LL Strength/Movement,chartevents,50,50,chartevent
+78,08/12/1971,Dorsal PedPulse R,chartevents,50,50,chartevent
+78,08/12/1971,PostTib. Pulses R,chartevents,50,50,chartevent
+78,08/12/1971,Dorsal PedPulse L,chartevents,50,50,chartevent
+78,08/12/1971,PostTib. Pulses L,chartevents,50,50,chartevent
+78,08/12/1971,Capillary Refill R,chartevents,50,50,chartevent
+79,08/12/1971,RUE Color,chartevents,50,50,chartevent
+79,08/12/1971,RLE Color,chartevents,50,50,chartevent
+79,08/12/1971,LUE Color,chartevents,50,50,chartevent
+79,08/12/1971,LLE Color,chartevents,50,50,chartevent
+79,08/12/1971,Respiratory Pattern,chartevents,50,50,chartevent
+79,08/12/1971,RUL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,RLL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,LUL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,LLL Lung Sounds,chartevents,50,50,chartevent
+79,08/12/1971,Respiratory Effort,chartevents,50,50,chartevent
+79,08/12/1971,Cough Effort,chartevents,50,50,chartevent
+79,08/12/1971,Cough Type,chartevents,50,50,chartevent
+80,08/12/1971,Oral Cavity,chartevents,50,50,chartevent
+80,08/12/1971,Oral Cavity,chartevents,50,50,chartevent
+80,08/12/1971,Nares R,chartevents,50,50,chartevent
+80,08/12/1971,Diet Type,chartevents,50,50,chartevent
+80,08/12/1971,Abdominal Assessment,chartevents,50,50,chartevent
+80,08/12/1971,Bowel Sounds,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Intub Site,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Place Check,chartevents,50,50,chartevent
+80,08/12/1971,Stool Consistency,chartevents,50,50,chartevent
+80,08/12/1971,Stool Management,chartevents,50,50,chartevent
+80,08/12/1971,Stool Guaiac,chartevents,50,50,chartevent
+81,08/12/1971,Skin Integrity,chartevents,50,50,chartevent
+81,08/12/1971,Skin Temperature,chartevents,50,50,chartevent
+81,08/12/1971,Skin Color,chartevents,50,50,chartevent
+81,08/12/1971,Edema Location,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Site #1,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Cleanse #1,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Treatment #1,chartevents,50,50,chartevent
+81,08/12/1971,Braden Sensory Perception,chartevents,50,50,chartevent
+81,08/12/1971,Braden Moisture,chartevents,50,50,chartevent
+81,08/12/1971,Braden Activity,chartevents,50,50,chartevent
+81,08/12/1971,Braden Mobility,chartevents,50,50,chartevent
+81,08/12/1971,Braden Nutrition,chartevents,50,50,chartevent
+81,08/12/1971,Braden Friction/Shear,chartevents,50,50,chartevent
+82,08/12/1971,Circulation/Skin Integrity,chartevents,50,50,chartevent
+82,08/12/1971,Position Change,chartevents,50,50,chartevent
+82,08/12/1971,Range of Motion,chartevents,50,50,chartevent
+83,08/12/1971,Education Learner,chartevents,50,50,chartevent
+83,08/12/1971,Education Topic,chartevents,50,50,chartevent
+83,08/12/1971,Education Readiness,chartevents,50,50,chartevent
+83,08/12/1971,Education Barrier,chartevents,50,50,chartevent
+83,08/12/1971,Education Method,chartevents,50,50,chartevent
+83,08/12/1971,Education Response,chartevents,50,50,chartevent
+84,08/12/1971,Head of Bed,chartevents,50,50,chartevent
+84,08/12/1971,Turn,chartevents,50,50,chartevent
+84,08/12/1971,Activity,chartevents,50,50,chartevent
+84,08/12/1971,Assistance Device,chartevents,50,50,chartevent
+84,08/12/1971,Activity Tolerance,chartevents,50,50,chartevent
+84,08/12/1971,Therapeutic Bed,chartevents,50,50,chartevent
+84,08/12/1971,Anti Embolic Device,chartevents,50,50,chartevent
+84,08/12/1971,Position,chartevents,50,50,chartevent
+85,08/12/1971,Warming Device,chartevents,50,50,chartevent
+85,08/12/1971,Warming Device,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Wound Base #1,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Drainage #1,chartevents,50,50,chartevent
+76,08/12/1971,Pain Level Response,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Type #1,chartevents,50,50,chartevent
+89,08/12/1971,Surrounding Tissue #1,chartevents,50,50,chartevent
+89,08/12/1971,Pressure Ulcer Stage #1,chartevents,50,50,chartevent
+89,08/12/1971,Tunneling Present #1,chartevents,50,50,chartevent
+74,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+75,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+77,08/12/1971,Pupil Size Left,chartevents,50,50,chartevent
+79,08/12/1971,RUE Temp,chartevents,50,50,chartevent
+79,08/12/1971,LUE Temp,chartevents,50,50,chartevent
+79,08/12/1971,RLE Temp,chartevents,50,50,chartevent
+79,08/12/1971,LLE Temp,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Type,chartevents,50,50,chartevent
+80,08/12/1971,GI #1 Tube Status,chartevents,50,50,chartevent
+80,08/12/1971,Stool Color,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin Drainage Amount #1,chartevents,50,50,chartevent
+81,08/12/1971,Skin Condition,chartevents,50,50,chartevent
+81,08/12/1971,Edema Amount,chartevents,50,50,chartevent
+80,08/12/1971,Nares L,chartevents,50,50,chartevent
+77,08/12/1971,Level of Consciousness,chartevents,50,50,chartevent
+77,08/12/1971,Behavior,chartevents,50,50,chartevent
+84,08/12/1971,Oral Care,chartevents,50,50,chartevent
+77,08/12/1971,Pupil Response Right,chartevents,50,50,chartevent
+77,08/12/1971,Pupil Response Left,chartevents,50,50,chartevent
+83,08/12/1971,History of falling (within 3 mnths),chartevents,50,50,chartevent
+83,08/12/1971,Secondary diagnosis,chartevents,50,50,chartevent
+83,08/12/1971,Ambulatory aid,chartevents,50,50,chartevent
+83,08/12/1971,IV/Saline lock,chartevents,50,50,chartevent
+83,08/12/1971,Gait/Transferring,chartevents,50,50,chartevent
+83,08/12/1971,Mental status,chartevents,50,50,chartevent
+76,08/12/1971,Daily Wake Up,chartevents,50,50,chartevent
+82,08/12/1971,Patient/Family Informed_V2,chartevents,50,50,chartevent
+81,08/12/1971,Side Rails_V2,chartevents,50,50,chartevent
+82,08/12/1971,Side Rails (Restraint),chartevents,50,50,chartevent
+82,08/12/1971,Non-Violent Restraints,chartevents,50,50,chartevent
+82,08/12/1971,Non-Violent Restraints Ordered,chartevents,50,50,chartevent
+82,08/12/1971,Face to Face Eval (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Reason for Restraints (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Restraint Device (Non-Violent),chartevents,50,50,chartevent
+82,08/12/1971,Restraint Location_V2,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+82,08/12/1971,Restraints Evaluated_V2,chartevents,50,50,chartevent
+81,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+81,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+81,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+81,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+81,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+89,08/12/1971,Impaired Skin  - Dressing Status #1,chartevents,50,50,chartevent
+1,08/12/1971,System Integrity,chartevents,50,50,chartevent
+1,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+1,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+1,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+15,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+15,08/12/1971,System Integrity,chartevents,50,50,chartevent
+15,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+15,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+15,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+15,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+1,08/12/1971,Dialysis Catheter Site Appear,chartevents,50,50,chartevent
+1,08/12/1971,Dialysis Catheter Site Appear,chartevents,50,50,chartevent
+1,08/12/1971,Dialysis Catheter Type,chartevents,50,50,chartevent
+1,08/12/1971,Dialysis Catheter Placement Confirmed by X-ray,chartevents,50,50,chartevent
+0,08/12/1971,Multi Lumen Site Appear,chartevents,50,50,chartevent
+0,08/12/1971,Multi Lumen Waveform Appear,chartevents,50,50,chartevent
+0,08/12/1971,Arterial line Site Appear,chartevents,50,50,chartevent
+0,08/12/1971,Arterial line Waveform Appear,chartevents,50,50,chartevent
+0,08/12/1971,Multi Lumen Placement Confirmed by X-ray,chartevents,50,50,chartevent
+8,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+18,08/12/1971,System Integrity,chartevents,50,50,chartevent
+18,08/12/1971,System Integrity,chartevents,50,50,chartevent
+16,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+8,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+18,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+18,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+18,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+30,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+32,08/12/1971,Circulation/Skin Integrity,chartevents,50,50,chartevent
+32,08/12/1971,Position Change,chartevents,50,50,chartevent
+32,08/12/1971,Range of Motion,chartevents,50,50,chartevent
+31,08/12/1971,Head of Bed,chartevents,50,50,chartevent
+31,08/12/1971,Turn,chartevents,50,50,chartevent
+31,08/12/1971,Activity,chartevents,50,50,chartevent
+31,08/12/1971,Assistance Device,chartevents,50,50,chartevent
+31,08/12/1971,Activity Tolerance,chartevents,50,50,chartevent
+31,08/12/1971,Therapeutic Bed,chartevents,50,50,chartevent
+31,08/12/1971,Anti Embolic Device,chartevents,50,50,chartevent
+31,08/12/1971,Position,chartevents,50,50,chartevent
+31,08/12/1971,Warming Device,chartevents,50,50,chartevent
+30,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+31,08/12/1971,Warming Device Status,chartevents,50,50,chartevent
+31,08/12/1971,Anti Embolic Device Status,chartevents,50,50,chartevent
+31,08/12/1971,Oral Care,chartevents,50,50,chartevent
+32,08/12/1971,Patient/Family Informed_V2,chartevents,50,50,chartevent
+31,08/12/1971,Side Rails_V2,chartevents,50,50,chartevent
+32,08/12/1971,Side Rails (Restraint),chartevents,50,50,chartevent
+31,08/12/1971,Non-Violent Restraints,chartevents,50,50,chartevent
+31,08/12/1971,Non-Violent Restraints Ordered,chartevents,50,50,chartevent
+31,08/12/1971,Face to Face Eval (Non-Violent),chartevents,50,50,chartevent
+31,08/12/1971,Reason for Restraints (Non-Violent),chartevents,50,50,chartevent
+31,08/12/1971,Restraint Device (Non-Violent),chartevents,50,50,chartevent
+31,08/12/1971,Restraint Location_V2,chartevents,50,50,chartevent
+31,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+31,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+31,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+31,08/12/1971,Less Restrictive Measures_V1,chartevents,50,50,chartevent
+32,08/12/1971,Restraints Evaluated_V2,chartevents,50,50,chartevent
+31,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+31,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+31,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+31,08/12/1971,Safety Measures,chartevents,50,50,chartevent
+0,08/12/1971,System Integrity,chartevents,50,50,chartevent
+0,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent
+0,08/12/1971,Dialysate Fluid,chartevents,50,50,chartevent
+0,08/12/1971,CRRT mode,chartevents,50,50,chartevent
+9,08/12/1971,Heart Rhythm,chartevents,50,50,chartevent
+13,08/12/1971,GCS - Eye Opening,chartevents,50,50,chartevent
+13,08/12/1971,Risk for Falls,chartevents,50,50,chartevent
+13,08/12/1971,Orientation,chartevents,50,50,chartevent
+13,08/12/1971,GCS - Verbal Response,chartevents,50,50,chartevent
+13,08/12/1971,GCS - Motor Response,chartevents,50,50,chartevent
+13,08/12/1971,Speech,chartevents,50,50,chartevent
+13,08/12/1971,Communication,chartevents,50,50,chartevent
+13,08/12/1971,Gag Reflex,chartevents,50,50,chartevent
+13,08/12/1971,Cough Reflex,chartevents,50,50,chartevent
+13,08/12/1971,Pupil Size Right,chartevents,50,50,chartevent
+14,08/12/1971,Follows Commands,chartevents,50,50,chartevent
+14,08/12/1971,Spontaneous Movement,chartevents,50,50,chartevent
+14,08/12/1971,Response to Stimuli (Type),chartevents,50,50,chartevent
+14,08/12/1971,RU Strength/Movement,chartevents,50,50,chartevent
+14,08/12/1971,RL Strength/Movement,chartevents,50,50,chartevent
+14,08/12/1971,LU Strength/Movement,chartevents,50,50,chartevent
+14,08/12/1971,LL Strength/Movement,chartevents,50,50,chartevent
+14,08/12/1971,Respiratory Pattern,chartevents,50,50,chartevent
+14,08/12/1971,RUL Lung Sounds,chartevents,50,50,chartevent
+14,08/12/1971,RLL Lung Sounds,chartevents,50,50,chartevent
+14,08/12/1971,LUL Lung Sounds,chartevents,50,50,chartevent
+14,08/12/1971,LLL Lung Sounds,chartevents,50,50,chartevent
+14,08/12/1971,Respiratory Effort,chartevents,50,50,chartevent
+14,08/12/1971,Cough Effort,chartevents,50,50,chartevent
+14,08/12/1971,Cough Type,chartevents,50,50,chartevent
+14,08/12/1971,Oral Cavity,chartevents,50,50,chartevent
+15,08/12/1971,Nares R,chartevents,50,50,chartevent
+15,08/12/1971,Diet Type,chartevents,50,50,chartevent
+15,08/12/1971,Abdominal Assessment,chartevents,50,50,chartevent
+15,08/12/1971,Bowel Sounds,chartevents,50,50,chartevent
+15,08/12/1971,GI #1 Intub Site,chartevents,50,50,chartevent
+15,08/12/1971,GI #1 Tube Place Check,chartevents,50,50,chartevent
+15,08/12/1971,Stool Consistency,chartevents,50,50,chartevent
+15,08/12/1971,Stool Management,chartevents,50,50,chartevent
+15,08/12/1971,Stool Guaiac,chartevents,50,50,chartevent
+16,08/12/1971,Circulation/Skin Integrity,chartevents,50,50,chartevent
+16,08/12/1971,Position Change,chartevents,50,50,chartevent
+16,08/12/1971,Range of Motion,chartevents,50,50,chartevent
+17,08/12/1971,Education Learner,chartevents,50,50,chartevent
+17,08/12/1971,Education Topic,chartevents,50,50,chartevent
+17,08/12/1971,Education Topic,chartevents,50,50,chartevent
+17,08/12/1971,Education Readiness,chartevents,50,50,chartevent
+17,08/12/1971,Education Barrier,chartevents,50,50,chartevent
+17,08/12/1971,Education Method,chartevents,50,50,chartevent
+17,08/12/1971,Education Response,chartevents,50,50,chartevent
+17,08/12/1971,Head of Bed,chartevents,50,50,chartevent
+17,08/12/1971,Turn,chartevents,50,50,chartevent
+17,08/12/1971,Activity,chartevents,50,50,chartevent
+17,08/12/1971,Assistance Device,chartevents,50,50,chartevent
+17,08/12/1971,Activity Tolerance,chartevents,50,50,chartevent
+17,08/12/1971,Therapeutic Bed,chartevents,50,50,chartevent
+17,08/12/1971,Anti Embolic Device,chartevents,50,50,chartevent
+17,08/12/1971,Position,chartevents,50,50,chartevent
+18,08/12/1971,Warming Device,chartevents,50,50,chartevent
+20,08/12/1971,System Integrity,chartevents,50,50,chartevent
+67,08/12/1971,Temperature Site,chartevents,50,50,chartevent
+9,08/12/1971,Ectopy Type 1,chartevents,50,50,chartevent
+13,08/12/1971,Pupil Size Left,chartevents,50,50,chartevent
+15,08/12/1971,GI #1 Tube Type,chartevents,50,50,chartevent
+15,08/12/1971,GI #1 Tube Status,chartevents,50,50,chartevent
+15,08/12/1971,Stool Color,chartevents,50,50,chartevent
+15,08/12/1971,Nares L,chartevents,50,50,chartevent
+18,08/12/1971,Warming Device Status,chartevents,50,50,chartevent
+17,08/12/1971,Anti Embolic Device Status,chartevents,50,50,chartevent
+20,08/12/1971,Replacement Fluid,chartevents,50,50,chartevent

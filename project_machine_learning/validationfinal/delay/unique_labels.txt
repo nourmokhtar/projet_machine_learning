@@ -1,0 +1,1434 @@
+labels
+HR Alarm [Low]
+INV Line#2 [Type]
+NBP Alarm [Low]
+RLE [Temperature]
+Pressure Sore #1 [Width]
+Impaired Skin Site #1
+Ectopy Type 1
+Pain Management
+Safety Measures
+Dialysis Catheter Placement Confirmed by X-ray
+Turn
+GI #1 Tube Place Check
+Braden Friction/Shear
+Cough Effort
+Education Response
+Dialysis Catheter Site Appear
+Restraints Evaluated_V2
+Pain Assessment Method
+LLL Lung Sounds
+GI #1 Intub Site
+Orientation
+Reason for Immobilizer
+Skin [Temperature]
+GI Intub #1 [Type]
+ABP Alarm [Low]
+Warming [Device]
+Arterial BP [Systolic]
+Dorsal PedPulse [Right]
+ETT [Mark]
+INV Line#3 [Type]
+MDI #3 [Puff]
+Pressure Sore #1 [Stage]
+IV #1 [Site]
+RLL Lung Sounds
+Edema Location
+Braden Nutrition
+Less Restrictive Measures_V1
+GCS - Verbal Response
+Speech
+Oral Care
+Pain Level
+Respiratory Effort
+GI #1 Tube Drainage
+Impaired Skin Cleanse #1
+Impaired Skin Type #1
+LUL Lung Sounds
+Head of Bed
+Response
+Impaired Skin Site #2
+Ectopy Frequency 1
+Inc #3 [Dressing]
+Angio Appearance #2 [Attribute 1]
+Edema #2 [Location]
+Arterial line Waveform Appear
+Impaired Skin Drainage Amount #1
+LLE Temp
+Temperature Site
+Face to Face Eval (Non-Violent)
+Nares R
+Non-Violent Restraints Ordered
+Response to Stimuli (Type)
+IV/Saline lock
+Pressure Reducing Device
+GI #1 Tube Place Method
+Multi Lumen Site Appear
+PostTib. Pulses R
+Ambulatory aid
+Impaired Skin Drainage #1
+Respiratory Pattern
+Nares L
+Circulation/Skin Integrity
+Tunneling Present #1
+Multi Lumen Placement Confirmed by X-ray
+LUE Color
+Diet Type
+Bowel Sounds
+Untoward Effect
+Patient/Family Informed_V2
+Arterial line Site Appear
+Edema Amount
+Marital Status
+Cough Type
+Education Topic
+Education Barrier
+MDI #1 [Puff]
+ImpSkin #1 [Width]
+Cooling [Device]
+CRRT mode
+Dorsal PedPulse R
+History of falling (within 3 mnths)
+GCS - Motor Response
+Tunneling Present #2
+RUL Lung Sounds
+Pupil Size Left
+ABP Alarm Source
+Chest PT [Right]
+Initials (2 RNs) [RN #1]
+Inc #1 [Dressing]
+Communication
+RUE Color
+Mental status
+IV #3 [Site]
+Med Wasted [Drug]
+GI Tube #1 [Site]
+RU Strength/Movement
+Religion
+Pain Level Acceptable
+SpO2 Alarm [Low]
+NBP [Systolic]
+LUE [Temp]
+ImpSkin #1 [Drain]
+Pain Management [Route/Status #1]
+Pain Level Response
+Immobilizer Evaluated
+Code Status
+GU Catheter Size
+18 Gauge Site Appear
+Appetite
+GI [Guaiac]
+ROM [Type]
+Dialysate Fluid
+Heart Rhythm
+LL Strength/Movement
+LLE Color
+Surrounding Tissue #1
+Position Change
+Warming Device
+Stool Color
+RUE Temp
+Skin Condition
+Heparin Concentration (units/mL)
+Dialysis Catheter Type
+Education Readiness
+Impaired Skin  - Dressing Status #1
+Level of Consciousness
+Braden Sensory Perception
+Pupil Size Right
+INV Line#6 [Type]
+Dorsal PedPulse L
+Activity
+Anti Embolic Device Status
+Stool [Color]
+GI#1 Tube [Status]
+Pain Present
+O2 Delivery Device(s)
+Pressure Sore #2 [Width]
+20 Gauge Site Appear
+Replacement Fluid
+System Integrity
+Risk for Falls
+RLE Temp
+Gait/Transferring
+Spontaneous Movement
+Oral Cavity
+Warming Device Status
+Range of Motion
+Anti Embolic Device
+Multi Lumen Waveform Appear
+RUE [Temperature]
+Ulnar Pulse [Right]
+Resp Alarm [Low]
+IV #2 [Site]
+Pupil Response Right
+Support Systems
+Reason for Restraints (Non-Violent)
+Secondary diagnosis
+Sputum [Color]
+Pupil Response [Right]
+Urine [Color]
+Anti-Embolism [Device]
+Sputum Source
+Pupil Size [Right]
+Corneal Reflex [Right]
+MDI #2 [Puff]
+Immobilizer Location
+Immobilizer Device
+RLE Color
+Braden Activity
+Abdominal Assessment
+Activity Tolerance
+GI #1 Tube Status
+Education Learner
+Language
+Side Rails_V2
+Pupil Response Left
+Pressure Ulcer Stage #1
+Pain Location
+Education Method
+Daily Wake Up
+Position
+PostTib. Pulses L
+INV Line#1 [Type]
+Responds to Stimuli [Type]
+Skin Temperature
+Impaired Skin Drainage Amount #2
+Stool Consistency
+Therapeutic Bed
+Non-Violent Restraints
+Impaired Skin Wound Base #1
+Braden Moisture
+LUE Temp
+Pain Type
+Follows Commands
+Skin Integrity
+Skin Color
+Braden Mobility
+Assistance Device
+Behavior
+Restraint Device (Non-Violent)
+Impaired Skin Wound Base #2
+Side Rails (Restraint)
+GI #1 Tube Type
+Stool Management
+LU Strength/Movement
+Restraint Location_V2
+Impaired Skin Treatment #1
+Stool Guaiac
+GCS - Eye Opening
+Inc #2 [Closure]
+Inc #3 [Drainage]
+Inc #3 [Closure]
+Inc #2 [Drainage]
+Inc #1 [Closure]
+RUE [Sensation]
+Inc #2 [Dressing]
+PAP Alarm [Low]
+Angio Appearance #1 [Attribute 1]
+RLE [Sensation]
+Edema #1 [Location]
+ImpSkin #3 [Drain]
+Arterial BP #2 [Systolic]
+Undermining Present #1
+RL Strength/Movement
+Riker-SAS Scale
+Daily Wake Up Deferred
+Impaired Skin Cleanse #2
+Surrounding Tissue #2
+RLE Sensation
+RUE Sensation
+Impaired Skin Site #3
+IV #4 [Site]
+LLE [Temp]
+PostTib. Pulses [Right]
+Impaired Skin  - Dressing Status #2
+Impaired Skin Type #2
+Cough Reflex
+Impaired Skin Treatment #2
+Past medical history
+Urine Source
+Patient Location
+Corneal Reflex Right
+Admit from
+22 Gauge Site Appear
+Impaired Skin Width #2
+O2 Saturation Pulseoxymetry Alarm - Low
+Tidal Volume (observed)
+Non-Invasive Blood Pressure Alarm - High
+Glucose finger stick
+Creatinine
+Sodium (serum)
+Family Communication
+Radial Pulse L
+Judgement
+Flatus
+INV Line#5 [Type]
+Non Invasive Blood Pressure mean
+Inspired O2 Fraction
+Non-Invasive Blood Pressure Alarm - Low
+Impaired Skin Width #7
+Vti High
+WBC
+Pain Cause
+Race
+Inspiratory Time
+Heart rate Alarm - High
+Small Volume Neb Drug/Dose #1
+Impaired Skin Length #2
+Chloride (serum)
+BUN
+Resp Alarm - High
+Respiratory Rate (spontaneous)
+Inc #1 [Drainage]
+Vancomycin (Random)
+Vancomycin (Trough)
+Inspiratory Ratio
+20 G Infiltration Scale
+Tidal Volume (set)
+Impaired Skin Length #4
+O2 Saturation Pulseoxymetry Alarm - High
+Capillary Refill R
+Side Rails
+Service
+18 Gauge Reason Discontinued
+Impaired Skin Cleanse #3
+Pressure Sore #2 [Stage]
+Radial Pulse [Right]
+Immobilizer
+Sputum Color
+Urine Color
+Capillary Refill L
+Phosphorous
+Mean Airway Pressure
+Non Invasive Blood Pressure diastolic
+Respiratory Rate
+Apnea Interval
+Impaired Skin Width #4
+Expiratory Ratio
+O2 Flow
+Non Invasive Blood Pressure systolic
+SpO2 Desat Limit
+HCO3 (serum)
+Impaired Skin Width #5
+Radial Pulse R
+Hematocrit (serum)
+MDI #1 Puff
+CVP Alarm [Low]
+PAP [Systolic]
+GI Prophylaxis [Drug #1]
+Magnesium
+Brachial Pulse [Right]
+Pronator drift present
+Heart Rate Alarm - Low
+Resp Alarm - Low
+Balance
+18 G Phlebitis Scale
+Impaired Skin Length #5
+Impaired Skin Length #7
+Temperature Fahrenheit
+Potassium (serum)
+Minute Volume Alarm - Low
+PEEP set
+GI Guaiac
+Urine Appearance
+Impaired Skin Wound Base #3
+Inc #4 [Closure]
+INV Line#4 [Type]
+Gag Reflex
+Sputum Consistency
+Impaired Skin Drainage #3
+Surrounding Tissue #3
+Impaired Skin Drainage #2
+Sputum Amount
+Safety Measures_U_1
+Corneal Reflex Left
+NBP Alarm Source
+Inc #4 [Dressing]
+Teaching directed toward
+Consults
+Minute Volume Alarm - High
+Anion gap
+Peak Insp. Pressure
+Paw High
+Differential-Monos
+Hemoglobin
+Platelet Count
+Heart Rate
+O2 saturation pulseoxymetry
+Impaired Skin Length #3
+Calcium non-ionized
+18 G Infiltration Scale
+CV - past medical history
+INR
+Glucose (serum)
+Cuff Volume (mL)
+Living situation
+.9% Normal Saline
+Impaired Skin Treatment #3
+LUE Sensation
+Stool Estimate
+Impaired Skin Type #3
+Ostomy Appearance
+Capillary Refill [Right]
+KneeImmobilizeLoc [Right]
+Impaired Skin Width #3
+Impaired Skin Drainage #4
+Seizure Activity
+GI Intub #2 [Type]
+LLE Sensation
+Ostomy [Type]
+Specific Gravity (urine)
+Chest PT R/L
+Ventilator Mode
+Use of assistive devices
+Impaired Skin Length #1
+Impaired Skin Width #1
+Troponin-T
+Incision Appearance #1
+Impaired Skin Depth #2
+Impaired Skin Depth #1
+GI Tube #2 [Site]
+Differential-Eos
+Gender
+Differential-Neuts
+Admission Weight (lbs.)
+Incision Site #1
+Cervical Collar Type
+INV Line#7 [Type]
+Emesis Appearance
+Patient valuables
+Respiratory Rate (Set)
+Ventilator Type
+PTT
+Dressing Status #1
+Range of Motion Location
+Tobacco Use History
+20 G Phlebitis Scale
+Interpreter
+Inc #4 [Drainage]
+Neuro Symptoms
+Differential-Lymphs
+Impaired Skin  - Dressing Status #3
+Incision Drainage #1
+Incision Dressing #1
+All Medications Tolerated without Adverse Side Effects
+Cervical Collar Status
+Baseline pain level
+Impaired Skin Depth #3
+Ostomy
+Patient controlled analgesia (PCA) [Inject]
+Differential-Basos
+GI#2 Tube [Status]
+Prothrombin time
+INV Line#8 [Type]
+O2 Flow (additional cannula)
+Surrounding Tissue #4
+Incision Drainage Amount #1
+Trach [Cuff]
+Arterial Blood Pressure diastolic
+TCO2 (calc) Arterial
+Height (cm)
+CT #1 [Fluctuate]
+ImpSkin #2 [Drain]
+Tidal Volume (spontaneous)
+Angio Appearance # 1
+Arterial Blood Pressure systolic
+Ventilator Tank #2
+Flow Pattern
+Arterial Base Excess
+Feeding Weight
+PH (dipstick)
+Arterial O2 Saturation
+Minute Volume
+ETT Location
+Humidification
+Arterial Blood Pressure mean
+Nares [Right]
+Impaired Skin Drainage Amount #3
+Ulnar Pulse R
+Arterial Blood Pressure Alarm - Low
+CK (CPK)
+Central Venous Pressure  Alarm - Low
+Arterial CO2 Pressure
+NIV Mask
+ETT Mark (cm)
+Ventilator Tank #1
+MDI #2 Puff
+Fspn High
+CK-MB
+Admission Weight (Kg)
+ImpSkin #6 [Width]
+Range of Motion Status
+LDH
+ALT
+Height
+PH (Arterial)
+Slope
+Plateau Pressure
+Angio Site # 1
+Direct Bilirubin
+SpO2 Alarm [High]
+Inc #1 [Status]
+Anti-Embolism [Status]
+INV Line#1 [Site]
+Pressure Sore #1 [Drainage]
+ICP Alarm [Low]
+ETT Size (ID)
+Arterial O2 pressure
+Angio Dressing # 1
+GI pH
+PSV Level
+HR Alarm [High]
+Dorsal PedPulse [Left]
+Pupil Response [Left]
+Resp Alarm [High]
+Stool [Consistency]
+CK-MB fraction (%)
+NBP Alarm [High]
+Arterial Blood Pressure Alarm - High
+Alkaline Phosphate
+Albumin
+Arterial BP [Diastolic]
+IV #3 [Size]
+ImpSkin #4 [Drain]
+Central Venous Pressure
+Impaired Skin Site #4
+Impaired Skin Type #4
+IV #1 [Size]
+Flow Rate (variable/fixed)
+Flow Sensitivity
+ETT Type
+Central Venous Pressure Alarm - High
+Respiratory Rate (Total)
+GI Prophylaxis [Drug #2]
+Ventricular Pacemaker Sense [mA]
+Precautions: Standard +
+RSBI Deferred
+IV #4 [Size]
+ABP Alarm [High]
+Lactic Acid
+Incision Site #2
+PCA medication
+RLE [Color]
+Incision Dressing #3
+Incision Appearance #3
+14 Gauge Site Appear
+Undermining Present #6
+Neuro Drain #1 Type
+Impaired Skin Wound Base #6
+Impaired Skin Type #5
+Urine [Appearance]
+Pupil Size [Left]
+Incision Drainage Amount #3
+CT #1 Leak
+ImpSkin #2 [Width]
+Bladder Pressure
+INV Line#2 [Site]
+Incision Dressing #2
+Inspired Gas Temp.
+Total Bilirubin
+PostTib. Pulses [Left]
+CT #1 Dressing
+NBP [Diastolic]
+Incision Closure #2
+Responds to Stimuli [Value]
+GI Intub #1 [Site]
+Total PEEP Level
+CT #2 [Leak]
+ImpSkin #5 [Drain]
+ImpSkin #5 [Width]
+Potassium (whole blood)
+Tunneling Present #4
+Impaired Skin Drainage Amount #4
+LLE [Sensation]
+CT #1 [Leak]
+Inc #1 [Amount]
+AST
+PAP [Diastolic]
+ETT [Location]
+Ventricular Pacemaker [Capture]
+LUE [Color]
+Sputum [Amount]
+Capillary Refill [Left]
+ETT Mark (location)
+CT #1 Suction Type
+CT #1 Fluctuate
+IV #2 [Size]
+PCA total dose units
+Pressure Ulcer Stage #4
+Surrounding Tissue #6
+Impaired Skin Wound Base #5
+Tunneling Present #3
+Inc #3 [Appearance]
+CVP Alarm [High]
+Inc #2 [Status]
+Incision Drainage #2
+Inc #1 [Appearance]
+Femoral Pulse [Left]
+PAP Alarm [High]
+LLE [Color]
+Warming [Status]
+Chest Tube Site # 1
+Incision Drainage #3
+PCA 1 hour limit units
+GI #2 Intub Site
+Chloride (whole blood)
+Pressure Sore #1 [Amount]
+Dressing Status #3
+ART BP Systolic
+RUE [Color]
+Impaired Skin Drainage #5
+Impaired Skin Treatment #6
+Impaired Skin Cleanse #5
+Inc #3 [Status]
+Angio Appearance #2 [Attribute 2]
+Inc #2 [Appearance]
+CT #1 Crepitus
+Inc #2 [Amount]
+GI#1 Tube [Drain]
+GI#2 Tube [Drain]
+LUE [Sensation]
+CT #1 Drainage
+CT #1 Suction Amount
+PCA  dose units
+Ventricular Pacemaker [Sensitivity]
+Ostomy [Appearance]
+Edema #2 [Amount]
+GI #2 Tube Type
+Angio Appearance #1 [Attribute 2]
+Corneal Reflex [Left]
+ART BP mean
+ART BP Diastolic
+Arterial Line Discontinued
+Atrial Pacemaker Sense [mA]
+Ionized Calcium
+Incision Appearance #2
+Atrial Pacemaker [Sensitivity]
+GI #2 Tube Status
+Incision Site #3
+Chest PT [Left]
+Spont RR
+Undermining Present #5
+Impaired Skin Cleanse #6
+Impaired Skin Drainage #6
+Surrounding Tissue #5
+Tunneling Present #5
+INV Line#3 [Site]
+MDI #1 [Drug]
+Inc #3 [Amount]
+Pressure Sore #1 [Heal]
+Incision Closure #1
+Impaired Skin Site #6
+Impaired Skin Treatment #5
+Undermining Present #4
+Amylase
+Atrial Pacemaker [Capture]
+Impaired Skin Cleanse #4
+ImpSkin #2 [Amount]
+Dressing Status #2
+MDI #2 Drug
+ImpSkin #1 [Length]
+Incision Drainage Amount #2
+Edema #1 [Amount]
+MDI #2 [Drug]
+MDI #3 [Drug]
+Impaired Skin Drainage Amount #5
+Tunneling Present #6
+ImpSkin #3 [Amount]
+ImpSkin #2 [Length]
+Impaired Skin Site #5
+INV Line#4 [Site]
+Pain Management [Route/Status #2]
+Known difficult intubation
+Spont Vt
+Glucose (whole blood)
+Hematocrit (whole blood - calc)
+Daily Weight
+MDI #1 Drug
+GI Intub #2 [Site]
+Cuff Pressure
+Ulnar Pulse [Left]
+PCA cleared
+Impaired Skin Drainage Amount #6
+Impaired Skin Type #6
+Pressure Sore #1 [Length]
+ROM [Value]
+Site Appearance - Adjunctive Pain Management
+Venous O2 Pressure
+PH (Venous)
+Fibrinogen
+Radial Pulse [Left]
+Sodium (whole blood)
+Manual BP [Diastolic]
+Pressure Ulcer Stage #6
+Pressure Sore #2 [Heal]
+ImpSkin #6 [Drain]
+ImpSkin #4 [Width]
+TCO2 (calc) Venous
+Cash amount
+Pressure Sore #2 [Length]
+ImpSkin #1 [Amount]
+Impaired Skin Treatment #4
+Cooling [Status]
+GI #2 Tube Drainage
+Phenytoin (Dilantin)
+Undermining Present #3
+Health Care Proxy
+Estimated Energy Needs/Kg
+Less Restrictive Measures
+Estimated Protein Needs/Kg
+PICC Line Placement Confirmed by X-ray
+Venous CO2 Pressure
+Pressure Ulcer Stage #2
+PICC Line Site Appear
+Differential-Bands
+Patient controlled analgesia (PCA) [Attempt]
+Nares [Left]
+ART Blood Pressure Alarm - High
+20 Gauge Reason Discontinued
+Brachial Pulse [Left]
+PCA lockout (min)
+SvO2
+Med Wasted [Amount]
+Phenobarbital
+Food and Fluid
+PCA inject
+Pressure Ulcer Stage #3
+PCA total dose
+PCA attempt
+GI #2 Tube Place Check
+Inc #4 [Status]
+PCA dose
+PCA 1 hour limit
+Restraint Device (Non-violent)
+Pinsp (Draeger only)
+PCA basal rate (mL/hour)
+Urinal/Bedpan
+Patient/Family Informed
+Initials (2 RNs) [RN #2]
+Restraint (Non-violent)
+D-Dimer
+GI #2 Tube Place Method
+PCA bolus
+ART Blood Pressure Alarm - Low
+Epidural Bolus (mL)
+Epidural Total Dose (mL)
+Seizure Duration
+Side  Rails
+Ammonia
+Return Pressure
+Filter Pressure
+VEN Lumen Volume
+Discharge to
+Restraint Ordered (Non-violent)
+Ultrafiltrate Output
+Blood Flow (ml/min)
+Status and Comfort
+Epidural Infusion Rate (mL/hr)
+Dialysate Rate
+Current Goal
+Access Pressure
+ART Lumen Volume
+Heparin Dose (per hour)
+Lipase
+Arterial BP #2 [Diastolic]
+INV Line#5 [Site]
+Hourly Patient Fluid Removal
+Baseline Current/mA
+Ectopy Type 2
+Reason for Restraint (Non-violent)
+GI [pH]
+Pulsus Paradoxus
+Effluent Pressure
+Current Used/mA
+Restraint Location
+Signs of Injury from Intervention
+Replacement Rate
+Ectopy Frequency 2
+INV Line#6 [Site]
+BiPap EPAP
+Restraints Evaluated
+Differential-Atyps
+Inc #4 [Amount]
+INV Line#7 [Site]
+Total Protein
+Inc #4 [Appearance]
+ICP Alarm [High]
+Face to Face Eval (Non-violent)
+KneeImmobilizeLoc [Left]
+PCV Level (Avea)
+Cerebral Perfusion Pressure Alarm - Low
+INV Line#8 [Site]
+Verbal Response
+calprevflg
+Platelets
+Motor Response
+RBC
+Precautions
+Intra Cranial Pressure Alarm - Low
+Service Type
+Height of Bed
+INR (2-4 ref. range)
+Hematocrit
+Temperature C (calc)
+Ectopy Frequency
+Eye Opening
+Ectopy Type
+HOB
+Temperature F
+Braden SensoryPercep
+Allergy 2
+Braden Score
+Trach [Fenestra]
+Creatinine (0-1.3)
+Braden Frict/Shear
+PTT(22-35)
+GI#1 Tube PlaceCheck
+Back Care
+Phosphorous(2.7-4.5)
+IV Site Appear #1
+Previous Weight
+INV Line#1 Zero/Cal
+Glucose (70-105)
+PT(11-13.5)
+Temp. Site
+Fingerstick Glucose
+Alk. Phosphate
+Magnesium (1.6-2.6)
+Ext
+Carbon Dioxide
+Readmission
+Arterial CO2(Calc)
+Sodium (135-148)
+Radiologic Study
+Chloride (100-112)
+BiPap IPAP
+Admit Ht
+Arterial PaCO2
+Arterial pH
+Significant Events
+Albumin (>3.2)
+CVP
+Calcium (8.4-10.2)
+Previous WeightF
+NBP Mean
+Allergy 3
+INV Line#1SiteAppear
+Restraint Type
+Skin Care
+BSA
+Hemodialysis Output
+Diagnosis/op
+Total Bili (0-1.5)
+Blood Products
+Art.pH
+BSA - English
+IV Site Appear #2
+Circulation/SkinInt
+Admit Wt
+Differential-Polys
+GCS Total
+Level of Conscious
+O2 Delivery Device
+SpO2
+BSA - Metric
+BUN (6-20)
+Potassium (3.5-5.3)
+Weight Change
+Spiritual Support
+Fibrinogen (150-400)
+Arterial PaO2
+Removed x 5 Mins
+Allergy 1
+Tylenol
+Less Restrict Meas.
+Reason For Restraint
+Knee Location - Immobilizer
+ImpSkin #5 [Amount]
+ImpSkin #4 [Length]
+ImpSkin #6 [Length]
+Parameters Checked
+INV#1 WaveformAppear
+Any fear in relationships
+Social work consult
+Incentive Spirometry
+Knee Immobilizer Status
+20 Gauge placed in outside facility
+Alarms On
+Unable to assess activity / mobility
+Bed Bath
+CreatinineApacheIIScore
+Smoking Cessation Info Offered through BIDMC Inpatient Guide
+AaDO2ApacheIIValue
+AgeApacheIIValue
+CreatinineApacheIIValue
+18 Gauge Dressing Occlusive
+Central Venous O2% Sat
+HrApacheIIScore
+Arterial Line Zero/Calibrate
+Multi Lumen placed in outside facility
+Multi Lumen Dressing Occlusive
+18 Gauge placed in outside facility
+Unintentional weight loss >10 lbs.
+Cordis/Introducer Placement Confirmed by X-ray
+MapApacheIIValue
+ETOH
+Pain Level (Rest)
+O2 Flow (lpm)
+MapApacheIIScore
+Pain Assess Method
+Unable to assess cognitive / perceptual
+Unable to assess pain
+Pregnant
+Eye Care
+Impaired Skin Odor #1
+RrApacheIIScore
+Intravenous  / IV access prior to admission
+Ndwelling Port (PortaCath) placed in outside facility
+Subglottal Suctioning
+Difficulty swallowing
+History of slips / falls
+Indwelling Port (PortaCath) Dressing Occlusive
+Stool Guaiac QC
+High risk (>51) interventions
+Procedures
+PICC Line Dressing Occlusive
+Unable to assess psychological
+Arterial Line placed in outside facility
+PICC Line placed in outside facility
+Unable to assess teaching / learning needs
+Is the spokesperson the Health Care Proxy
+PotassiumApacheIIScore
+SodiumApacheIIScore
+HrApacheIIValue
+Ethanol
+APACHE II Predecited Death Rate
+Sexuality / reproductive problems
+RRApacheIIValue
+Visual / hearing deficit
+PA Catheter placed in outside facility
+Sheath Line Dressing Occlusive
+HCO3ApacheIIValue
+HematocritApacheIIScore
+CPK
+APACHE II PDR - Adjusted
+PHApacheIIValue
+Incision/Wound #2
+TempApacheIIScore
+No wallet / money
+ImpSkin #6 [Amount]
+ImpSkin #4 [Amount]
+Special diet
+Impaired Skin Odor #2
+Cordis/Introducer Site Appear
+Potassium
+PA Catheter Zero/Calibrate
+Sheath Zero/Calibrate
+20 Gauge Dressing Occlusive
+Calcium
+AgeApacheIIScore
+Recreational drug use
+Arterial Line Dressing Occlusive
+Post menopausal
+FiO2ApacheIIValue
+PT
+Dialysis patient
+Education Topic #1
+Unable to assess nutrition / education
+ImpSkin #5 [Length]
+Emotional / physical / sexual harm by partner or close relation
+Cough/Deep Breath
+Alarms
+Education Handout
+DswfApacheScore
+GcsApacheIIScore
+PotassiumApacheIIValue
+Multi Lumen Line Tip Cultured
+WbcApacheIIScore
+Multi Lumen Zero/Calibrate
+Sheath placed in outside facility
+Arterial BP Mean
+Pacemaker Type
+Pacer Rate
+INV Line#2SiteAppear
+PainLevel Acceptable
+Education Topic #2
+Glucose
+ETT Position Change
+ETT Re-taped
+CaO2
+Temperature F (calc)
+Chest Tube Site #1
+22 Gauge placed in outside facility
+ICU Consent Signed
+CPK/MB
+LVSWI
+SVR
+Airway Type
+SaO2
+Pacemaker Mode
+Cough/Deep Breathe
+FiO2 Set
+Impaired Skin Odor #3
+Resp Rate (Total)
+PAP Mean
+Readmit <48 hrs
+LVSW
+Vent Stim Thresh mA
+Incision/Wound #1
+Pacer Wires Vent
+Pacer Wires Atrial
+Atr Stim Thresh mA
+Vent Sens Thresh mV
+Incision/Wound #3
+Cuff Pressure-Airway
+Stroke Volume
+Chloride
+Currently experiencing pain
+Cardiac Index
+Arterial Line Tip Cultured
+Sodium
+Discharge needs
+Flow-by Sensitivity
+INV#2 WaveformAppear
+PCWP
+Low Exhaled Min Vol
+High Resp. Rate
+22 Gauge Dressing Occlusive
+Mixed Venous O2% Sat
+Respiratory Rate Set
+Temperature C
+RCW
+Flow-By (lpm)
+C.O.(thermodilution)
+Micro-Neb Treatment
+See chart for initial patient assessment
+PhApacheIIScore
+Self ADL
+IV #2 Reason DC'D
+Pacer Wire Condition
+PA line cm Mark
+LCW
+HCO3Score
+LCWI
+Undermining Present #2
+PVRI
+INV Line#2 Zero/Cal
+Sensitivity-Vent
+Inc Cleansing #1
+High Insp. Pressure
+RVSW
+Low Insp. Pressure
+bath
+Cartridge/Bag Change
+Apnea Time Interval
+Airway Size
+SVRI
+Swan SVO2
+SVI
+Unable to assess habits
+HematocritApacheIIValue
+WBCApacheIIValue
+Vital Cap (>1.0)L
+Chest Tube Site #2
+PA Catheter Dressing Occlusive
+Tidal Volume (Obser)
+Tidal Volume (Spont)
+Minute Volume(Obser)
+Called Out
+IV Site Appear #3
+Pressure Support
+Spon. Vt (L) (Mech.)
+Resp Rate (Spont)
+PEEP Set
+Ve High
+C.O. (fick)
+Nursing Consultation
+Tank A psi.
+I:E Ratio
+Tidal Volume (Set)
+DO2I
+RCWI
+Blood Transfusion Consent
+TempApacheIIValue
+Compliance (40-60ml)
+ChpApacheIIScore
+OxygenApacheIIScore
+Waveform-Vent
+PVR
+Spon RR (Mech.)
+GI Guaiac QC
+O2 Delivery Device#2
+Impaired Skin Site#1
+Impaired Skin Odor #6
+Legal Guardian
+Indwelling Port (PortaCath) Site Appear
+APACHE II
+SodiumApacheIIValue
+RVSWI
+14 Gauge placed in outside facility
+Cordis/Introducer placed in outside facility
+Impaired Skin Odor #4
+Tank B psi.
+Inc Cleansing #2
+Inspired Gas Temp
+RSBI (<200)
+IV #1 Reason DC'D
+Pain Level/Response
+Cordis/Introducer Dressing Occlusive
+14 Gauge Dressing Occlusive
+Angio Site #1
+Indwelling (PortaCath) Port Type
+ImpSkin Treatment #1
+RSBI (<100)
+Vancomycin/Random
+Trach Care
+Neg Insp Force(>-25)
+IV Site Appear #4
+ImpSkin Wound Base#1
+Total Bili
+Angio Dressing #1
+IV #3 Reason DC'D
+INV#3 WaveformAppear
+ImpSkin Treatment #2
+O2 Flow (lpm) #2
+Epidural Appearance
+Impaired Skin Odor #5
+Collar Care
+PICC Line Tip Cultured
+Lactic Acid(0.5-2.0)
+Epidural Medication
+Sensory Level
+Incision Cleansing #1
+Mixed Venous O2
+INV Line#3SiteAppear
+INV Line#3 Zero/Cal
+Bath
+BiPap Mask
+Family Meeting
+Motor Deficit
+ImpSkin Character #1
+Venous PvO2
+Impaired Skin Site#3
+Autoset/CPAP
+Femoral Pulse L
+INV Line#4SiteAppear
+Airway Size (mm)
+BiPap Mode
+ImpSkin Character #3
+Venous CO2(Calc)
+ImpSkin Wound Base#3
+ImpSkin Character #2
+Venous pH
+Impaired Skin Site#2
+Epidural Location
+Venous PvCO2
+PressureReduceDevice
+16 Gauge Dressing Occlusive
+Midline placed in outside facility
+BATH
+Pericardial Drain Site
+Pericardial Drain Drainage
+ImpSkin Wound Base#2
+Femoral Pulse R
+ImpSkin Treatment #3
+Airway Location
+PressSoreCleansing#1
+16 Gauge Site Appear
+Pressure Sore Odor#1
+PressSore Depth #1
+16 Gauge placed in outside facility
+Midline Dressing Occlusive
+Pericardial Drain Status
+Troponin
+Pericardial Drain Aspiration
+O2AV
+Dialysis Catheter placed in outside facility
+Imp Skin Cleanse #2
+Midline Tip Cultured
+Dialysis Catheter Dressing Occlusive
+PressSoreWoundBase#1
+PreSep Catheter SVO2
+DO2
+zzO2AV
+Imp Skin Cleanse #3
+Imp Skin Cleanse #1
+zzO2AVI
+Rec.Breath Time(sec)
+APACHEII-Renal failure
+O2AVI
+Pressure Sore Site#1
+Medication Bolus - Adjunctive Pain Management
+Dialysis Catheter Tip Cultured
+Re-admit < 48 hours
+PressSoreTreatment#1
+Manual BP Mean(calc)
+Pericardial Drain Flush
+Rec. Breath Pressure
+Serum Osmolality
+Dilantin
+Filter Pressure mmHg
+D-Dimer (0-500)
+Recruit Breath
+Inc Cleansing #3
+CT #2 Dressing
+IABP setting
+Dialysate Flow ml/hr
+Dialysis Access Site
+Hourly PFR
+Return Pressure mmHg
+Replace Rate ml/hr
+Effluent Press mmHg
+ART Blood Pressure Alarm Source
+Dialysate Infusing
+CT #2 Suction Amount
+Dialysis Access Type
+Dialysis Type
+Access mmHg
+RSBI Not Completed
+Heparin Dose
+Assisted Systole
+BAEDP
+Angio Site #2
+CT #2 Drainage
+AV Interval
+Blood Flow ml/min
+Angio Dressing #2
+IABP Mean
+Replace.Fluid Infuse
+high mv
+Auto-PEEP Level
+Plateau-Off
+Dialysis Site Appear
+Augmented Diastole
+Press Sore Site #2
+PressSoreCleansing#2
+Incision Closure #3
+IV #4 Reason DC'D
+PressSoreTreatment#2
+PressSoreWoundBase#2
+Peak Flow
+Pressure Sore Odor#2
+Cooling Device Status
+Ventilator No.
+BIPAP - IPAP
+PT Splint Location #1
+HOB Measurement
+BIPAP - EPAP
+Incision Packing #1
+PT Splint Status #1
+Cooling Device
+Vancomycin/Peak
+BIPAP-Mode
+seizure pads
+PCA Lockout (Min)
+PCA Total Dose
+Multi Lumen Line Discontinued
+PCA Dose
+PCA Medication
+Cerv Collar Status
+Small Volume Neb Drug #2
+Recruitment Mode
+Total Protein(6.5-8)
+PCA 1 Hr Limit (mg)
+Vancomycin/Trough
+Nerve Stimulated
+Anxiety
+Drowsiness
+BIPAP - O2 lpm
+Diastolic Unloading
+pressure low
+TOF Twitch
+TCPCV I:E Ratio
+NMB Medication
+Paroxysmal Sweats
+TCPCV Insp. Pressure
+Cuff Volume/units
+Systolic Unloading
+TOF Response
+Slurred Speech
+time low
+Orient/Clouding Sens
+Visual Disturbances
+Auditory Disturbance
+pressure high
+time high
+TCPCV-MAP
+Uric Acid (2.7-7.0)
+Headache
+TOF Response/Twitch
+PCV Set Insp. Press
+Triglyceride
+TCPCV Insp. Time
+CIWA Sum Total
+Ataxia
+Pt./Family Informed
+Indwelling (PortaCath) Port #1
+Indwelling (PortaCath) Port #2
+Seizure
+GCSMotorApacheIIValue
+Sitter
+Midline Site Appear
+Nausea and Vomiting
+GCSEyeApacheIIValue
+Triglyceride (0-200)
+Aggitation
+Tactile Disturbances
+GCSVerbalApacheIIValue
+Tremor
+Sustained Nystamus
+PCA Bolus
+Incision/Wound #4
+CPP
+ICP
+SBT Started
+SBT Successfully Completed
+Vision - IPAP
+Insomnia
+Sustained Nystagmus
+Seizure Pads
+Agitation
+Nausea and Vomiting (CIWA)
+Tremor (CIWA)
+Brachial Pulse L
+Vision FiO2
+Ulnar Pulse L
+Vision Rate
+Vision - Mode
+Incontinent (estimate)
+Vision Mask
+Brachial Pulse R
+Vision - EPAP
+Orient/Clouding Sensory
+PCA Basal Rate
+Cont.Nebulizer(Drug)
+Spont. Resp. Rate
+Minute Volume (Set)
+Impaired Skin Wound Base #4
+Working Pressure
+FIO2 Alarm-High
+PAP Alarm Source
+Sedation Score
+ACT (102-142)
+FiO2 (Analyzed)
+Remote Alarm
+Peak Flow (Calc)
+Sheath Site Appear
+% Inspir. Time
+FIO2 Alarm-Low
+Pause Time %
+BIPAP - BPM
+PA Catheter Waveform Appear
+PA Catheter Site Appear
+Sheath Waveform Appear
+Sheath Size
+Bladder Irrigation
+INV Line#6 Zero/Cal
+INV#5 WaveformAppear
+INV Line#6SiteAppear
+INV#6 WaveformAppear
+INV Line#7SiteAppear
+Arterial BP #3
+Arterial Mean #3
+Direct Bili
+INV#4 WaveformAppear
+AaDO2
+Arterial BP Mean #2
+INV Line#5SiteAppear
+INV#7 WaveformAppear
+Direct Bili (0-0.3)
+INV Line#7 Zero/Cal
+INV Line#5 Zero/Cal
+Midline Discontinued
+PAO2
+INV Line#4 Zero/Cal
+Impaired Skin Drainage Amount #7
+Impaired Skin Site #7
+Trach Tube Type
+Tunneling Present #7
+MDI #3 Drug
+Trach Tube Manufacturer
+Impaired Skin Type #7
+Passey Muir Valve in use
+Trach Tube Size (I.D.)
+Pressure Ulcer Stage #5
+Impaired Skin Drainage #7
+Surrounding Tissue #7
+Undermining Present #7
+Impaired Skin Treatment #7
+Temperature Celsius
+Neuro Drain Landmark
+GI#2 Tube PlaceCheck
+Neuro Drain #1 Drainage
+Impaired Skin Cleanse #7
+Neuro Drain #1 Status
+Recruitment Press
+Recruitment Duration
+Uric Acid
+Neuro Drain #1 Level
+P Low (APRV)
+Negative Insp. Force
+T High (APRV)
+Bedbath
+T Low (APRV)
+Restraint Device (Violent)
+Violent Restraints
+Brain Natiuretic Peptide (BNP)
+bed rotation
+INV Line#8SiteAppear
+Face to Face Eval (Violent)
+P High (APRV)
+Tracheostomy Cuff
+Trach Size
+Cuff Leak
+Tract/Imm Location#1
+Traction/Immobile #1
+Tracheostomy Type
+Imp Skin Cleanse #4
+ImpSkin Wound Base#4
+Impaired Skin Site#4
+Impaired Skin Site#6
+Pin Care
+Impaired Skin Site#5
+ImpSkin Wound Base#6
+ImpSkin Character #5
+Solumedrol
+ImpSkin Treatment #4
+ImpSkin Treatment #6
+ImpSkin Treatment #5
+PT Splint Location #2
+Imp Skin Cleanse #6
+ImpSkin Character #4
+ImpSkin Wound Base#5
+Imp Skin Cleanse #5
+Impaired Skin Depth #4
+ImpSkin Character #6
+PT Splint Status #2
+Inc/Wound Packing #3
+Incision Cleansing #2
+Small Volume Neb Dose #2
+Ventricular Pacemaker [Sense]
+Atrial Pacemaker [mA]
+Ventricular Pacemaker [mA]
+Ventricular Pacemaker Sense [mV]
+Atrial Pacemaker Sense [mV]
+Pulmonary Artery Pressure diastolic
+Pulmonary Artery Pressure systolic
+Pulmonary Artery Pressure mean
+Pulmonary Artery Pressure Alarm - High
+Atrial Pacemaker [Sense]
+Pulmonary Artery Pressure Alarm - Low
+Doppler BP
+Digoxin
+Manual Blood Pressure Systolic Left
+Manual Blood Pressure Diastolic Left
+Manual BP [Systolic]
+Inc/Wound Packing #2
+Manual Blood Pressure Diastolic Right
+Emesis [Appearance]
+Femoral Pulse [Right]
+MDI #3 Puff
+CT #2 [Fluctuate]
+PO2 (Mixed Venous)
+Manual Blood Pressure Systolic Right
